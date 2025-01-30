@@ -1,0 +1,16 @@
+{
+  "name": "-prueba-python-node",
+  "version": "1.0.0",
+  "main": "gestionInventario.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon gestionInventario.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
